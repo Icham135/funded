@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Funded">
+<title>Funded Icon</title>
+<rect width="512" height="512" rx="112" fill="#123524"/>
+<g transform="translate(150,102) scale(1.2)">
+<path fill="#F5F3EC" d="M0,0h156v42H42v198H0Z"/>
+<rect x="42" y="84" width="108" height="42" fill="#E9A23B"/>
+</g>
+</svg>

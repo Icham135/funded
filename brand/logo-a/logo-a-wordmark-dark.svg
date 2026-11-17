@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 486 160" width="486" height="160" role="img" aria-label="Funded">
+<title>Funded Wortmarke dunkel</title>
+<g transform="translate(40,20)">
+<g fill="#F5F3EC">
+<path d="M0,20h52v14H14v18h38v14H14v34H0Z"/>
+<path d="M60,40h14v32a14,14 0 0 0 28,0V40h14v32a28,28 0 0 1 -56,0Z"/>
+
+<path d="M128,100V68a28,28 0 0 1 56,0V100H170V68a14,14 0 0 0 -28,0V100Z"/>
+<path fill-rule="evenodd" d="M198,70a30,30 0 1 0 60,0a30,30 0 1 0 -60,0ZM212,70a16,16 0 1 0 32,0a16,16 0 1 0 -32,0Z"/><rect x="244" y="20" width="14" height="80"/>
+<path transform="translate(4,0)" d="M321,70A23,23 0 1 0 314.26,86.26" fill="none" stroke="#F5F3EC" stroke-width="14"/>
+<g transform="translate(8,0)"><path fill-rule="evenodd" d="M338,70a30,30 0 1 0 60,0a30,30 0 1 0 -60,0ZM352,70a16,16 0 1 0 32,0a16,16 0 1 0 -32,0Z"/><rect x="384" y="20" width="14" height="80"/>
+</g></g>
+<rect x="272" y="63" width="60" height="14" fill="#E9A23B"/>
+</g>
+</svg>
